@@ -302,7 +302,7 @@ export const dummyCourses = [
                         "lectureId": " lecture1",
                         "lectureTitle": "Lists and Tuples",
                         "lectureDuration": 720,
-                        "lectureUrl": "https://youtu.be/YvD0F3O7X8k",
+                        "lectureUrl": "https://youtu.be/zDSb00wqvaI",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -310,7 +310,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Dictionaries and Sets",
                         "lectureDuration": 850,
-                        "lectureUrl": "https://youtu.be/YvD0F3O7X8k",
+                        "lectureUrl": "https://youtu.be/zDSb00wqvaI",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -325,7 +325,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Classes and Objects",
                         "lectureDuration": 900,
-                        "lectureUrl": "https://youtu.be/YvD0F3O7X8k",
+                        "lectureUrl": "https://youtu.be/zDSb00wqvaI",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -333,7 +333,7 @@ export const dummyCourses = [
                         "lectureId": "lecture4",
                         "lectureTitle": "Inheritance and Polymorphism",
                         "lectureDuration": 950,
-                        "lectureUrl": "https://youtu.be/YvD0F3O7X8k",
+                        "lectureUrl": "https://youtu.be/zDSb00wqvaI",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
